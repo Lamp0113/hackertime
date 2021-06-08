@@ -1,0 +1,16 @@
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.csprojAssemblyReference.cache
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.AssemblyInfoInputs.cache
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.AssemblyInfo.cs
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.csproj.CoreCompileInputs.cache
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\discoinviterthing.exe
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\discoinviterthing.deps.json
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\discoinviterthing.runtimeconfig.json
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\discoinviterthing.runtimeconfig.dev.json
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\discoinviterthing.dll
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\ref\discoinviterthing.dll
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\bin\Debug\net5.0\discoinviterthing.pdb
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.dll
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\ref\discoinviterthing.dll
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.pdb
+C:\Users\theup\Desktop\random code stuff\discoinviterthing\obj\Debug\net5.0\discoinviterthing.genruntimeconfig.cache
